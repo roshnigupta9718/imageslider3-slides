@@ -1,0 +1,20 @@
+
+.container{background-color: pink;
+ 
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    width:90%;
+    height:50vh;
+    
+}
+
+
+img{
+    height:190px;
+    width:190px;
+}
+button{
+    margin: auto;
+}
